@@ -1,0 +1,4 @@
+Vpn-starter
+---------------------------
+A simple jruby app to start softtoken and 
+place is in the OS X system tray.
