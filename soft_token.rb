@@ -14,6 +14,7 @@ class SoftToken
     rescue Exception => e
       $stderr.print "Java told me: #{e}"
     end
+
   end
 end
         
