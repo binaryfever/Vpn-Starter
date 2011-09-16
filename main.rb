@@ -1,6 +1,7 @@
 require 'tray_application.rb'; 
 require 'soft_token.rb';
 
+#Testing
 app = TrayApplication.new("SoftToken II")
 
 app.icon_filename = 'lock.png'
